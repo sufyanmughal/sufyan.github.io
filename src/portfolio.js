@@ -21,7 +21,7 @@ const illustration = {
 
 const greeting = {
   username: "Sufyan",
-  title: "Hi all, I'm Sufyan Ahmad",
+  title: "Hi all, I'm Sufyan",
   subTitle: emoji(
     "A passionate Full Stack Web Designer ,Developer 🚀 having an experience of building Websites and Mobile applications with Wordpress + Elementor + Divi + Avada + WooCommerce / Shopify / Wix / squarespace / Html5 / css3 / Bootstrap / jquery //JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
   ),
