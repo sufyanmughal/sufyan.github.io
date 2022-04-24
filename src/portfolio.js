@@ -77,6 +77,10 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-wordpress"
     },
     {
+      skillName: "WordPress",
+      fontAwesomeClassname: "fab fa-Shopify"
+    },
+    {
       skillName: "Squarespace",
       fontAwesomeClassname: "fab fa-squarespace"
     },
@@ -113,16 +117,8 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-node"
     },
     {
-      skillName: "swift",
-      fontAwesomeClassname: "fab fa-swift"
-    },
-    {
       skillName: "npm",
       fontAwesomeClassname: "fab fa-npm"
-    },
-    {
-      skillName: "Mailchimp",
-      fontAwesomeClassname: "fab fa-mailchimp"
     },
  
     {
