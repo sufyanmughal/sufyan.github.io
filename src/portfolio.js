@@ -151,7 +151,7 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: "Harvard University",
+      schoolName: "Superior University",
       logo: require("./assets/images/superior-university.png"),
       subHeader: "Master of Science in Computer Science",
       duration: "September 2017 - April 2019",
