@@ -182,7 +182,7 @@ const techStack = {
       progressPercentage: "90%" //Insert relative proficiency in percentage
     },
     {
-      Stack: "Landing Pages/using Unbounce, Leadpages, Instapage, Clickfunnels, Mailchimp, Wordpress + Elementor + Divi + Avada + Thrive ",
+      Stack: "Landing Pages using Unbounce, Leadpages, Instapage, Clickfunnels, Mailchimp, Wordpress + Elementor + Divi + Avada + Thrive ",
       progressPercentage: "99%"
     },
     {
@@ -391,7 +391,7 @@ const contactInfo = {
 // Twitter Section
 
 const twitterDetails = {
-  userName: "twitter", //Replace "twitter" with your twitter username without @
+  userName: "c4sufyan", //Replace "twitter" with your twitter username without @
   display: true // Set true to display this section, defaults to false
 };
 
