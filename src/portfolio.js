@@ -60,7 +60,7 @@ const skillsSection = {
     -Webinar Registration Landing Pages 
     -Sales Pages (physical products)
     -Sales Pages (digital products) 
-    -App Landing Pages <br>
+    -App Landing Pages 
     -Website Landing Pages" `),
     emoji(
       "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
