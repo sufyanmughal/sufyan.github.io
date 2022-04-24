@@ -64,7 +64,7 @@ const skillsSection = {
     -App Landing Pages 
     -Website Landing Pages `),
     emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
+      "⚡ The landing pages, sales pages and websites I create convert, on average, in the top 10% of their respective markets (according to data published in 2020 & 2021 by Wordstream, Unbounce, Statista and Instapage). "
     )
   ],
 
