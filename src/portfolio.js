@@ -23,7 +23,7 @@ const greeting = {
   username: "Sufyan",
   title: "Hi all, I'm Sufyan",
   subTitle: emoji(
-    "Aa passionate Full Stack Web Designer ,Developer 🚀 having an experience of building Websites and Mobile applications with Wordpress + Elementor + Divi + Avada + WooCommerce / Shopify / Wix / squarespace / Html5 / css3 / Bootstrap / jquery //JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
+    "A passionate Full Stack Web Designer ,Developer 🚀 having an experience of building Websites and Landing Pages using Unbounce, Leadpages, Instapage, Clickfunnels, Mailchimp, Wordpress + Elementor + Divi + Avada + Thrive + WooCommerce / Shopify / Wix / squarespace / Html5 / css3 / Bootstrap / jquery / php /JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
@@ -52,9 +52,9 @@ const skillsSection = {
   subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
     emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
+      "⚡ I create landing pages, sales pages and websites that convert, on average, in the top 10% of their respective markets! When you need conversions, I'm here to get them for you. Sit back, relax, and know that your needs are being handled by one of the best. "
     ),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
+    emoji("⚡ ✔ Premium Landing Page Creation (or mock-up) <br>-Lead Generation Landing Pages <br>-Click Through Landing Pages <br>-PPC Landing Pages <br>-Webinar Registration Landing Pages <br>-Sales Pages (physical products)<br>-Sales Pages (digital products) <br>-App Landing Pages <br>-Website Landing Pages"),
     emoji(
       "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
     )
@@ -360,8 +360,8 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+92-0000000000",
-  email_address: "saadpasta70@gmail.com"
+  number: "+92-3004567059",
+  email_address: "braintechlogics@gmail.com"
 };
 
 // Twitter Section
