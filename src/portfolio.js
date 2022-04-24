@@ -155,10 +155,10 @@ const educationInfo = {
       logo: require("./assets/images/superior-university.png"),
       subHeader: "Master of Science in Computer Science",
       duration: "September 2017 - April 2019",
-      desc: "Participated in the research of XXX and published 3 papers.",
+      desc: "Participated in the research of Transistors to Bypass vip Signals.",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Develop a full Functional RDA Voting System Based on Blockchain",
+        "Professional Cloud DevOps Engineer"
       ]
     },
     {
@@ -167,7 +167,7 @@ const educationInfo = {
       subHeader: "Bachelor of Science in Computer Science",
       duration: "September 2013 - April 2017",
       desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
-      descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
+      descBullets: ["Apply site reliability engineering principles to a service"]
     }
   ]
 };
@@ -206,7 +206,6 @@ const workExperiences = {
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       descBullets: [
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
       ]
     },
     {
@@ -220,8 +219,8 @@ const workExperiences = {
       role: "Software Engineer Intern",
       company: "Airbnb",
       companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      date: "Jan 2017 – Sep 2017",
+      desc: "Was selected as Junior Intern ,Learn and Deploy the Object oriented Programing skills to develope better version of App Development , plus contributed in main javascript library for future dev ."
     }
   ]
 };
