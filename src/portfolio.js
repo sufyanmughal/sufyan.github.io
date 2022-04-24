@@ -105,6 +105,16 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-npm"
     },
     {
+      skillName: "Mailchimp",
+      fontAwesomeClassname: "fab fa-mailchimp"
+    },
+    {
+      skillName: "WordPress",
+      fontAwesomeClassname: "fab fa-wordpress"
+    },
+
+  
+    {
       skillName: "sql-database",
       fontAwesomeClassname: "fas fa-database"
     },
