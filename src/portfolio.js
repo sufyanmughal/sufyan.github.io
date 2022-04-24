@@ -371,7 +371,7 @@ const talkSection = {
 
 const podcastSection = {
   title: emoji("Podcast 🎙️"),
-  subtitle: "I LOVE TO TALK ABOUT MYSELF AND TECHNOLOGY",
+  subtitle: "I LOVE TO TALK ABOUT MYSELF AND TECHNOLOGY!",
 
   // Please Provide with Your Podcast embeded Link
   podcast: [
@@ -391,7 +391,7 @@ const contactInfo = {
 // Twitter Section
 
 const twitterDetails = {
-  userName: "c4sufyan", //Replace "twitter" with your twitter username without @
+  userName: "c4sufyan", //Replace "twit..ter" with your twitter username without @
   display: true // Set true to display this section, defaults to false
 };
 
