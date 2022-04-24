@@ -73,6 +73,22 @@ https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
+      skillName: "WordPress",
+      fontAwesomeClassname: "fab fa-wordpress"
+    },
+    {
+      skillName: "Squarespace",
+      fontAwesomeClassname: "fab fa-squarespace"
+    },
+    {
+      skillName: "Mailchimp",
+      fontAwesomeClassname: "fab fa-mailchimp"
+    },
+    {
+      skillName: "Wix",
+      fontAwesomeClassname: "fab fa-wix"
+    },
+    {
       skillName: "html-5",
       fontAwesomeClassname: "fab fa-html5"
     },
@@ -108,12 +124,7 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "Mailchimp",
       fontAwesomeClassname: "fab fa-mailchimp"
     },
-    {
-      skillName: "WordPress",
-      fontAwesomeClassname: "fab fa-wordpress"
-    },
-
-  
+ 
     {
       skillName: "sql-database",
       fontAwesomeClassname: "fas fa-database"
