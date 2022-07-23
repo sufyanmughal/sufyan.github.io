@@ -49,7 +49,7 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK.......",
+  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK...........",
   skills: [
     emoji(
       "⚡ I create landing pages, sales pages and websites that convert, on average, in the top 10% of their respective markets! When you need conversions, I'm here to get them for you. Sit back, relax, and know that your needs are being handled by one of the best. "
