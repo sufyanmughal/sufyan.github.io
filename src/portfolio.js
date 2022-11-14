@@ -65,16 +65,8 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-wordpress"
     },
     {
-      skillName: "WordPress",
-      fontAwesomeClassname: "fab fa-Shopify"
-    },
-    {
-      skillName: "Squarespace",
-      fontAwesomeClassname: "fab fa-squarespace"
-    },
-    {
-      skillName: "Mailchimp",
-      fontAwesomeClassname: "fab fa-mailchimp"
+      skillName: "Shopify",
+      fontAwesomeClassname: "fab fa-shopify"
     },
     {
       skillName: "Wix",
