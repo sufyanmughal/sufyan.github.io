@@ -53,18 +53,6 @@ const skillsSection = {
   skills: [
     emoji(
       "⚡ I create landing pages, sales pages and websites that convert, on average, in the top 10% of their respective markets! When you need conversions, I'm here to get them for you. Sit back, relax, and know that your needs are being handled by one of the best. "
-    ),
-    emoji( `⚡ ✔ Premium Landing Page Creation (or mock-up)
-    -Lead Generation Landing Pages 
-    -Click Through Landing Pages 
-    -PPC Landing Pages
-    -Webinar Registration Landing Pages 
-    -Sales Pages (physical products)
-    -Sales Pages (digital products) 
-    -App Landing Pages 
-    -Website Landing Pages `),
-    emoji(
-      "⚡ The landing pages, sales pages and websites I create convert, on average, in the top 10% of their respective markets (according to data published in 2020 & 2021 by Wordstream, Unbounce, Statista and Instapage). "
     )
   ],
 
